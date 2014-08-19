@@ -1,0 +1,9 @@
+﻿^!$& page=WebApp.EmployeeDetails
+# Employee Details
+
+## Showing details for employee {name}.
+
+#### First Name : {firstName}
+#### Last Name : {lastName}
+#### Id : {id}
+ 
